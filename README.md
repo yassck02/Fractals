@@ -1,5 +1,5 @@
 # Fractals
-===============
+
 A C++ tool for generating and viewing fractal patterns
 
 |                                       |                                       |                                       |
